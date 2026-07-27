@@ -82,10 +82,12 @@ $$
 Reverse Time Viewing would begin with the present consequence and use pattern matching, physical constraints, and relational evidence to infer the event or sequence that most plausibly produced it:
 
 $$
-\widehat{\text{prior event}}
-;\xleftarrow{\text{pattern-matched inference from}};
 \text{present consequence}
+\;\xrightarrow{\text{backward inference}}\;
+\widehat{\text{prior event}}
 $$
+
+The arrow represents the direction of inference, not the direction of physical causation.
 
 The physical causal sequence remains forward in time.
 
