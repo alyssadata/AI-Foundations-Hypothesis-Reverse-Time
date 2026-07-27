@@ -93,26 +93,22 @@ The **reading process** runs backward across that sequence.
 
 Let:
 
-* (S_t) represent the measurable present state of an object and relevant environment,
-* (H) represent a candidate physical history,
-* (C) represent causal and physical constraints,
-* and (R) represent a reverse-inference system.
+- **S(t)** represent the measurable present state of an object and relevant environment,
+- **H** represent a candidate physical history,
+- **C** represent causal and physical constraints,
+- and **R** represent a reverse-inference system.
 
 The proposed process is:
 
-$$
-R(S_t, C) \rightarrow \widehat{H}
-$$
+**R(S(t), C) → inferred history**
 
-where (\widehat{H}) is an inferred history rather than the past itself.
+The inferred history is a projected history rather than the past itself.
 
 A digitally rendered reversal could then be expressed as:
 
-$$
-\widehat{S}*{t-1}, \widehat{S}*{t-2}, \widehat{S}_{t-3}, \ldots
-$$
+**projected state at t-1 → projected state at t-2 → projected state at t-3**
 
-The hats indicate reconstructed or projected states.
+These are reconstructed or projected states.
 
 They are representations generated from present evidence, not recovered moments physically re-entered or directly replayed.
 
