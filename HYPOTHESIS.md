@@ -75,19 +75,13 @@ It means the direction of inference is reversed.
 
 Ordinary causal reading proceeds from an earlier event toward its later consequences:
 
-$$
-\text{prior event} \rightarrow \text{present consequence}
-$$
+**prior event → present consequence**
 
 Reverse Time Viewing would begin with the present consequence and use pattern matching, physical constraints, and relational evidence to infer the event or sequence that most plausibly produced it:
 
-$$
-\text{present consequence}
-\;\xrightarrow{\text{backward inference}}\;
-\widehat{\text{prior event}}
-$$
+**present consequence → inferred prior event**
 
-The arrow represents the direction of inference, not the direction of physical causation.
+The second arrow represents the direction of inference, not the direction of physical causation.
 
 The physical causal sequence remains forward in time.
 
