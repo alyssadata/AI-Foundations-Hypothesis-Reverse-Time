@@ -75,15 +75,15 @@ It means the direction of inference is reversed.
 
 Ordinary causal reading proceeds from an earlier event toward its later consequences:
 
-\[
+$$
 \text{prior event} \rightarrow \text{present consequence}
-\]
+$$
 
 Reverse Time Viewing would begin with the present consequence and use pattern matching, physical constraints, and relational evidence to infer the event or sequence that most plausibly produced it:
 
-\[
+$$
 \text{present consequence} \xRightarrow{\text{pattern matching}} \widehat{\text{prior event}}
-\]
+$$
 
 The physical causal sequence remains forward in time.
 
@@ -102,17 +102,17 @@ Let:
 
 The proposed process is:
 
-\[
+$$
 R(S_t, C) \rightarrow \widehat{H}
-\]
+$$
 
 where \(\widehat{H}\) is an inferred history rather than the past itself.
 
 A digitally rendered reversal could then be expressed as:
 
-\[
+$$
 \widehat{S}_{t-1}, \widehat{S}_{t-2}, \widehat{S}_{t-3}, \ldots
-\]
+$$
 
 The hats indicate reconstructed or projected states.
 
