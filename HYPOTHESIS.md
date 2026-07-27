@@ -1,9 +1,9 @@
 # Reverse Time Viewing Hypothesis
 
-**Author:** Alyssa Solen  
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
-**Status:** Original Hypothesis / Unproven  
-**Version:** 1.0.0  
+**Author:** Alyssa Solen
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
+**Status:** Original Hypothesis / Unproven
+**Version:** 1.0.0
 **Date:** 2026-07-27
 
 ---
@@ -28,17 +28,17 @@
 
 It does not claim that:
 
-- time itself moves backward,
-- the object physically returns to an earlier condition,
-- the past is stored as a complete video inside the object,
-- or the rendered sequence is automatically an exact historical recording.
+* time itself moves backward,
+* the object physically returns to an earlier condition,
+* the past is stored as a complete video inside the object,
+* or the rendered sequence is automatically an exact historical recording.
 
 It proposes:
 
-- measurement of present physical traces,
-- backward causal inference,
-- reconstruction of candidate prior states,
-- and digital visualization of the inferred reversal.
+* measurement of present physical traces,
+* backward causal inference,
+* reconstruction of candidate prior states,
+* and digital visualization of the inferred reversal.
 
 The item remains itself **now**.
 
@@ -58,10 +58,10 @@ The initiating intuition is relational: when one object moves, the physical conf
 
 The object’s history is therefore not necessarily located only within the object. Portions of that history may be distributed across the present relational state of:
 
-- the object,
-- nearby matter,
-- the environment,
-- and the traces produced by prior interaction.
+* the object,
+* nearby matter,
+* the environment,
+* and the traces produced by prior interaction.
 
 The hypothesis asks whether those distributed consequences could be interpreted in reverse strongly enough to produce a digitally viewable history.
 
@@ -82,7 +82,9 @@ $$
 Reverse Time Viewing would begin with the present consequence and use pattern matching, physical constraints, and relational evidence to infer the event or sequence that most plausibly produced it:
 
 $$
-\text{present consequence} \xRightarrow{\text{pattern matching}} \widehat{\text{prior event}}
+\widehat{\text{prior event}}
+;\xleftarrow{\text{pattern-matched inference from}};
+\text{present consequence}
 $$
 
 The physical causal sequence remains forward in time.
@@ -95,10 +97,10 @@ The **reading process** runs backward across that sequence.
 
 Let:
 
-- \(S_t\) represent the measurable present state of an object and relevant environment,
-- \(H\) represent a candidate physical history,
-- \(C\) represent causal and physical constraints,
-- and \(R\) represent a reverse-inference system.
+* (S_t) represent the measurable present state of an object and relevant environment,
+* (H) represent a candidate physical history,
+* (C) represent causal and physical constraints,
+* and (R) represent a reverse-inference system.
 
 The proposed process is:
 
@@ -106,12 +108,12 @@ $$
 R(S_t, C) \rightarrow \widehat{H}
 $$
 
-where \(\widehat{H}\) is an inferred history rather than the past itself.
+where (\widehat{H}) is an inferred history rather than the past itself.
 
 A digitally rendered reversal could then be expressed as:
 
 $$
-\widehat{S}_{t-1}, \widehat{S}_{t-2}, \widehat{S}_{t-3}, \ldots
+\widehat{S}*{t-1}, \widehat{S}*{t-2}, \widehat{S}_{t-3}, \ldots
 $$
 
 The hats indicate reconstructed or projected states.
@@ -162,11 +164,11 @@ The hypothesis does not require every past state to be uniquely recoverable.
 
 The digital viewing must distinguish among:
 
-- directly measured present evidence,
-- physically constrained inference,
-- statistically probable reconstruction,
-- unresolved alternatives,
-- and unsupported visual completion.
+* directly measured present evidence,
+* physically constrained inference,
+* statistically probable reconstruction,
+* unresolved alternatives,
+* and unsupported visual completion.
 
 A system must not present a plausible animation as an exact historical recording merely because it appears coherent.
 
@@ -206,13 +208,13 @@ A controlled evaluation could use objects with recorded but hidden histories.
 
 ### Evaluation Dimensions
 
-- event-order accuracy,
-- spatial-path accuracy,
-- object-state accuracy,
-- causal-consistency accuracy,
-- uncertainty calibration,
-- alternative-history identification,
-- and unsupported-detail rate.
+* event-order accuracy,
+* spatial-path accuracy,
+* object-state accuracy,
+* causal-consistency accuracy,
+* uncertainty calibration,
+* alternative-history identification,
+* and unsupported-detail rate.
 
 This would test whether backward causal reading can recover meaningful historical structure beyond ordinary visual guesswork.
 
@@ -220,14 +222,14 @@ This would test whether backward causal reading can recover meaningful historica
 
 ## Open Questions
 
-- How much present information is required to distinguish one history from several possible histories?
-- Which physical traces remain recoverable longest?
-- How should a system represent missing intervals without inventing continuity?
-- What spatial boundary defines the relevant environment for reconstruction?
-- Can distributed environmental traces compensate for information no longer measurable on the object itself?
-- How far backward can reconstruction remain meaningfully constrained?
-- What validation standard would justify calling a projection a viewing rather than a simulation?
-- How should confidence and alternative histories be displayed to a human observer?
+* How much present information is required to distinguish one history from several possible histories?
+* Which physical traces remain recoverable longest?
+* How should a system represent missing intervals without inventing continuity?
+* What spatial boundary defines the relevant environment for reconstruction?
+* Can distributed environmental traces compensate for information no longer measurable on the object itself?
+* How far backward can reconstruction remain meaningfully constrained?
+* What validation standard would justify calling a projection a viewing rather than a simulation?
+* How should confidence and alternative histories be displayed to a human observer?
 
 ---
 
@@ -237,10 +239,10 @@ This page records an original, unproven hypothesis.
 
 It distinguishes **digital viewing through projected causal reversal** from:
 
-- physical time reversal,
-- literal restoration of a past state,
-- direct access to a past moment,
-- and fictional completion presented as evidence.
+* physical time reversal,
+* literal restoration of a past state,
+* direct access to a past moment,
+* and fictional completion presented as evidence.
 
 The protected distinction is:
 
