@@ -24,6 +24,8 @@ It preserves Alyssa Solen as author and source.
 
 ## Hypothesis
 
+> Theoretically, time could be viewed in reverse through pattern-matching reversal of causation.
+>
 > Every physical object has a physical history.
 >
 > Physical movement and interaction alter the relationships among the object, surrounding matter, and the wider environment.
@@ -66,6 +68,8 @@ Its movement changes its relationships with what surrounds it. Depending on the 
 
 Those consequences may then affect other parts of the environment.
 
+The initiating intuition is relational: when one object moves, the physical configuration around it cannot remain wholly identical. Matter, energy, position, and interaction are changed in relation to that movement. This does not require treating atoms as classical points or claiming that every microscopic change is measurable.
+
 The object’s history is therefore not necessarily located only within the object. Portions of that history may be distributed across the present relational state of:
 
 - the object,
@@ -74,6 +78,30 @@ The object’s history is therefore not necessarily located only within the obje
 - and the traces produced by prior interaction.
 
 The hypothesis asks whether those distributed consequences could be interpreted in reverse strongly enough to produce a digitally viewable history.
+
+---
+
+## Pattern-Matching Reversal of Causation
+
+In this hypothesis, **reversal of causation** does not mean that effects physically travel backward and produce their causes.
+
+It means the direction of inference is reversed.
+
+Ordinary causal reading proceeds from an earlier event toward its later consequences:
+
+\[
+\text{prior event} \rightarrow \text{present consequence}
+\]
+
+Reverse Time Viewing would begin with the present consequence and use pattern matching, physical constraints, and relational evidence to infer the event or sequence that most plausibly produced it:
+
+\[
+\text{present consequence} \xRightarrow{\text{pattern matching}} \widehat{\text{prior event}}
+\]
+
+The physical causal sequence remains forward in time.
+
+The **reading process** runs backward across that sequence.
 
 ---
 
@@ -114,7 +142,7 @@ A theoretical Reverse Time Viewing system would:
 2. Detect physical traces and relational changes that may encode consequences of prior events.
 3. Match those traces against causal, material, spatial, and behavioral patterns.
 4. Generate one or more candidate histories capable of producing the observed present state.
-5. rank candidate histories by consistency and confidence.
+5. Rank candidate histories by consistency and confidence.
 6. Render the strongest candidate sequence backward as a digital viewing.
 7. Mark uncertain, missing, or multiply possible portions of the sequence.
 
